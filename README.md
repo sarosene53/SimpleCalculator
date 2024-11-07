@@ -49,7 +49,7 @@ The app is structured as follows:
 
 - **index.js**: Initializes the app and renders the `SimpleCalculator` component.
 - **SimpleCalculator.js**: Contains the UI and basic functionality for the calculator. It includes:
-  - Number buttons for digits 0–9 🔢
+  - Input Box for 2 numbers 🔢
   - Operation buttons for +, -, *, and /
   - Display screen to show the current input or calculation result
   - Clear button to reset the calculator 🧹
